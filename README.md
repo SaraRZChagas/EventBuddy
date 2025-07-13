@@ -50,41 +50,74 @@ Este projeto nasceu como proposta do módulo final do curso de desenvolvimento m
 ### 📱 Telas APP
 
 **Tela login do APP**
+
 <img src="./assets/TelaLoginApp.png" width="300"/>
+
 <img src="./assets/TelaLoginApp_ValidacaoEmail.png" width="300"/>
+
 <img src="./assets/TelaLoginApp_ValidacaoSenha.png" width="300"/>
+
 <img src="./assets/TelaRegistoApp.png" width="300"/>
+
 <img src="./assets/TelaRegistoApp_ValidacaoEmail.png" width="300"/>
+
 <img src="./assets/TelaRegistoApp_ValidacaoCampos.png" width="300"/>
+
 <img src="./assets/TelaRegistoApp_SenhaInvalida.png" width="300"/>
+
 <img src="./assets/TelaRegistoApp_DataInvalida.png" width="300"/>
+
 <img src="./assets/TelaRecuperarApp.png" width="300"/>
+
 <img src="./assets/TelaRecuperacaoApp_ValidacaoEmail.png" width="300"/>
+
 <img src="./assets/TelaRecuperacaoApp_Sucesso.png" width="300"/>
+
 <img src="./assets/TelaHomeApp.png" width="300"/>
+
 <img src="./assets/TelaFavoritoApp.png" width="300"/>
+
 <img src="./assets/TelaPerfilApp.png" width="300"/>
+
 <img src="./assets/TelaPerfilApp_ValidacaoData.png" width="300"/>
+
 <img src="./assets/TelaPerfilApp_Sucesso.png" width="300"/>
+
 <img src="./assets/TelaEventosApp.png" width="300"/>
+
 <img src="./assets/TelaDetalhesEventoApp.png" width="300"/>
+
 
 ### 💻 Telas Web
 
 **Tela login Web**
+
 <img src="./assets/TelaLoginWeb.png" width="300"/>
+
 <img src="./assets/TelaLoginWeb_ValidacaoSenhaIncorreta.png" width="300"/>
+
 <img src="./assets/TelaLoginWeb_ValidacaoEmailInexistente.png" width="300"/>
+
 <img src="./assets/TelaLoginWeb_ValidacaoEmail.png" width="300"/>
+
 <img src="./assets/TelaRegistoWeb.png" width="300"/>
+
 <img src="./assets/TelaRecuperarWeb_ValidacaoEmail.png" width="300"/>
+
 <img src="./assets/TelaRegistoWeb.png" width="300"/>
+
 <img src="./assets/TelaHomeWeb.png" width="300"/>
+
 <img src="./assets/TelaFavoritosWeb.png" width="300"/>
+
 <img src="./assets/TelaPerfilWeb.png" width="300"/>
+
 <img src="./assets/TelaPerfilWeb_Parte2.png" width="300"/>
+
 <img src="./assets/TelaEventosWeb.png" width="300"/>
+
 <img src="./assets/TelaDetalhesEventosWeb" width="300"/>
+
 
 ## 📁 Estrutura de pastas
 

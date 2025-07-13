@@ -116,7 +116,7 @@ Este projeto nasceu como proposta do módulo final do curso de desenvolvimento m
 
 <img src="./assets/TelaEventosWeb.png" width="300"/>
 
-<img src="./assets/TelaDetalhesEventosWeb" width="300"/>
+<img src="./assets/TelaDetalhesEventosWeb.png" width="300"/>
 
 
 ## 📁 Estrutura de pastas

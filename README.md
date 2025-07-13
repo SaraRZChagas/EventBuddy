@@ -132,6 +132,7 @@ Este projeto nasceu como proposta do módulo final do curso de desenvolvimento m
 ├── App.js
 ├── app.json
 ├── .gitignore
+├── .gitatributes
 ├── .env
 ├── /services
 │   ├── firebaseAuth.js

@@ -47,9 +47,9 @@ Este projeto nasceu como proposta do módulo final do curso de desenvolvimento m
 
 ## 🎥 Demonstração do Projeto
 
-[![🎬 Vídeo 1 - Demonstração App](https://via.placeholder.com/600x340.png?text=Clique+para+ver+o+vídeo+1)](https://drive.google.com/file/d/1mcscf-bfKLMlpgl2Jsjxoht_Aj6ew6Mg/view?usp=sharing)
+[🎬 Vídeo 1 - Demonstração App (botão direito → "Abrir em nova aba" para não sair da página) ](https://drive.google.com/file/d/1mcscf-bfKLMlpgl2Jsjxoht_Aj6ew6Mg/view?usp=sharing)
 
-[![🎬 Vídeo 2 - Demonstração Web](https://via.placeholder.com/600x340.png?text=Clique+para+ver+o+vídeo+2)](https://drive.google.com/file/d/1u_hERckY0Pj6Fha6E6eQTNr_A5GKGCTF/view?usp=sharing)
+[🎬 Vídeo 2 - Demonstração Web (botão direito → "Abrir em nova aba" para não sair da página) ](https://drive.google.com/file/d/1u_hERckY0Pj6Fha6E6eQTNr_A5GKGCTF/view?usp=sharing)
 
 
 ## 📸 Exemplos de Telas
